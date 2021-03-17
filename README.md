@@ -57,9 +57,11 @@
 
 
 <h2 align="center">Stats</h2>
-
+<p width="100%" align="center">  
+  
 ![stats](https://github-readme-stats.vercel.app/api?username=Y0unes17&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
 
+</p>
 <h2 align="center">Repositories</h2>
 <p width="100%" align="center">  
 <a align="left" href="https://github.com/Y0unes17/systeme-de-contrle-d-acces" ><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Y0unes17&repo=systeme-de-contrle-d-acces&theme=gotham"></a>
