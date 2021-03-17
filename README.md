@@ -72,8 +72,8 @@
 <a align="left" href="https://github.com/Y0unes17/Control-Browser-opencv" ><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Y0unes17&repo=Control-Browser-opencv&theme=gotham"></a>
 </p>
 <br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<hr>
 <h2 align="center">Stats</h2>
 
  
