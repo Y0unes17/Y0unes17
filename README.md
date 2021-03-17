@@ -58,7 +58,7 @@
 <p width="100%" align="center">  
 <a align="left" href="https://github.com/Y0unes17/systeme-de-contrle-d-acces" ><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Y0unes17&repo=systeme-de-contrle-d-acces&theme=gotham"></a>
 </p>
-<br><br>
+
 <p width="100%" align="center">  
 <a align="left" href="https://github.com/Y0unes17/zokra-one-voice-assistant" ><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Y0unes17&repo=zokra-one-voice-assistant&theme=gotham"></a>
 </p>
