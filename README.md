@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
+
 ### Hi there, I'm Younes - Ben Salah 👋
 
 
@@ -7,11 +13,11 @@
 
 ## I'm a Student and Developer!
 
-- 🔭 I’m currently working on computer vision ,machine learning ,deep learning!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+✔ 🔭 I’m currently working on computer vision ,machine learning ,deep learning!
+✔ 🌱 I’m currently learning everything 🤣
+✔ 👯 I’m looking to collaborate with other content creators
+✔ 🥅 2021 Goals: Contribute more to Open Source projects
+✔ ⚡ Fun fact: I love to draw and play guitar / drums
 
 
 
@@ -51,9 +57,8 @@
 
 
   
-<img align="left" alt="Younes Ben Salah" src="https://github-readme-stats.codestackr.vercel.app/api?username=Y0unes17&show_icons=true&hide_border=true&theme=tokyonight" />
 
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Y0unes17&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 
 
 [twitter]: https://twitter.com/codeSTACKr
